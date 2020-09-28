@@ -1,6 +1,7 @@
 # bomb
 
-
+## egg练习项目
+没有什么东西，只是添加了sequelize连接数据库创建表，其他什么都还没有
 
 ## QuickStart
 
@@ -31,3 +32,5 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+
+
